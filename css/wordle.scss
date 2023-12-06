@@ -1,0 +1,63 @@
+.red{
+    border: solid 1px red;
+    padding: 3px 10px;
+    border-radius: 15px;
+    background-color: red;
+}
+
+.orange{
+    border: solid 1px orange;
+    padding: 3px 10px;
+    border-radius: 15px;
+    background-color: orange;
+}
+
+.green{
+    border: solid 1px green;
+    padding: 3px 10px;
+    border-radius: 15px;
+    background-color: green;
+}
+
+.grey{
+    border: solid 1px lightgray;
+    padding: 3px 10px;
+    border-radius: 15px;
+    margin: 0 2px;
+    background-color: lightgray;
+}
+
+.mother{
+    display: flex;
+    margin: 0 35px;
+    justify-content: space-between;
+}
+
+.mot{
+    font-size: 1.5em;
+    font-weight: bold;
+    text-align: center;
+}
+
+h1{
+    font-size: 3em;
+    font-weight: bold;
+    text-align: center;
+}
+
+.win{
+    font-size: 2em;
+    font-weight: bold;
+    text-align: center;
+    background-color: lightgreen;
+    border-radius: 15px;
+}
+
+.button{
+    // border: solid 1px transparent;
+    padding: 3px 10px;
+    border-radius: 15px;
+    background-color: lightblue;
+    color: black;
+    text-decoration: none;
+}
